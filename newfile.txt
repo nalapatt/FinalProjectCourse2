@@ -1,2 +1,2 @@
 I have made first changes in Feature2 file
-
+I have made second changes in feature2
