@@ -2,4 +2,5 @@ I am making changes in feature1
 This is the second change
 This is the third change
 This is the fourth change
-This change is after rebase and merge  
+This change is after rebase and merge
+This change is in hotfix  
