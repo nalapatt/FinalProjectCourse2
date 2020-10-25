@@ -1,2 +1,3 @@
 I have made first changes in Feature2 file
 I have made second changes in feature2
+I have made third changes in feature2
