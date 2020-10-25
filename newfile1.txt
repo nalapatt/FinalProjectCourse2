@@ -1,2 +1,3 @@
 I am making changes in feature1
-This is the second change  
+This is the second change
+This is the third change  
